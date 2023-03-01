@@ -24,6 +24,6 @@
             "type": "Scene"
         }
     ],
-    "manifest": "https://github.com/Joemanf/dark-forest-maps/blob/main/module.json",
-    "download": "https://github.com/Joemanf/dark-forest-maps/blob/main/dark-forest.zip"
+    "manifest": "https://github.com/Joemanf/dark-forest-maps/raw/main/module.json",
+    "download": "https://github.com/Joemanf/dark-forest-maps/raw/main/dark-forest.zip"
   }
