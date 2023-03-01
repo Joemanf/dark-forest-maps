@@ -17,64 +17,13 @@
     },
     "packs": [
         {
-            "name": "module-creatures",
-            "label": "Module Creatures",
-            "path": "./packs/creatures.db",
-            "entity": "Actor",
-            "type": "Actor",
-            "system": "dnd5e"
-        },
-        {
-            "name": "module-items",
-            "label": "Module Items",
-            "path": "./packs/items.db",
-            "entity": "Item",
-            "type": "Item",
-            "system": "dnd5e"
-        },
-        {
-            "name": "module-scenes",
-            "label": "Module Scenes",
-            "path": "./packs/scenes.db",
+            "name": "dark-forest-map-1",
+            "label": "Dark Forest Maps",
+            "path": "./packs/dark-forest-map-1.db",
             "entity": "Scene",
             "type": "Scene"
-        },
-        {
-            "name": "module-journal-entries",
-            "label": "Module Journal Entries",
-            "path": "./packs/journal-entries.db",
-            "entity": "JournalEntry",
-            "type": "JournalEntry"
-        },
-        {
-            "name": "module-macros",
-            "label": "Module Macros",
-            "path": "./packs/macros.db",
-            "entity": "Macro",
-            "type": "Macro"
-        },
-        {
-            "name": "module-roll-tables",
-            "label": "Module Roll Tables",
-            "path": "./packs/roll-tables.db",
-            "entity": "RollTable",
-            "type": "RollTable"
-        },
-        {
-            "name": "module-playlists",
-            "label": "Module Playlists",
-            "path": "./packs/playlists.db",
-            "entity": "Playlist",
-            "type": "Playlist"
-        },
-        {
-            "name": "module-adventures",
-            "label": "Module Adventures",
-            "path": "./packs/adventures.db",
-            "entity": "Adventure",
-            "type": "Adventure"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://github.com/Joemanf/dark-forest-maps/blob/main/module.json",
+    "download": "https://github.com/Joemanf/dark-forest-maps/blob/main/dark-forest.zip"
   }
